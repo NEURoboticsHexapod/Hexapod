@@ -1,2 +1,2 @@
-# TeensyWalker
-Codebase for my ax-12 based quad
+# Hexapod
+Codebase for the Northeastern Robotics Team Hexapod.
